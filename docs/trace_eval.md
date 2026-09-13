@@ -92,7 +92,7 @@ Chuỗi Thought → Action → Observation → Final Answer trên LLM thật:
 - [x] Đã điền API Key thật trong `.env` và xác nhận Agent chạy mượt mà trên LLM API thật (Gemini `gemini-3.6-flash`).
 - **Tổng số Test Cases đã chạy thành công:** 5 / 5 test cases.
 - **Số lượt gọi Tool qua MCP Server chính xác:** 5 lượt (`academic_query` × 3, `schedule_appointment` × 2).
-- **Kết quả đẩy Repo nộp bài:** [ ] Đã Commit và Push mã nguồn thành công lên GitHub cá nhân.
+- **Kết quả đẩy Repo nộp bài:** [x] Đã Commit và Push mã nguồn thành công lên GitHub cá nhân (`https://github.com/thevu12/K4A-Day03-GiangTheVu-2A202602478`).
 
 ---
 
